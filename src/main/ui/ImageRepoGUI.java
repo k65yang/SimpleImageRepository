@@ -138,6 +138,7 @@ public class ImageRepoGUI {
                         Path target = Paths.get(imagePaths);
                         Files.copy(source, target.resolve(source.getFileName()), StandardCopyOption.REPLACE_EXISTING);
                         initializeImageScrollPane(true);
+                        errorLabel.setText("");
                     } catch (IOException ex) {
                         errorLabel.setText("Could not open the file");
                     }
