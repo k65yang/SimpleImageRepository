@@ -19,7 +19,7 @@ There is also a scroll pane on the bottom half of the application allowing the u
 ### Uploading An Image
 To upload an image, click the "Upload A New Image Button". It will bring up a file navigator. Simply navigate to the jpeg file to upload and select it. The image will be copied into the photos folder in the project directory and a thumbnail will be automatically generated as well. The scroll pane will then update showing the newly uploaded image.
 
-![](https://github.com/k65yang/SimpleImageRepository/blob/main/App_SelectImage.PNG)
+![](https://github.com/k65yang/SimpleImageRepository/blob/main/App_SelectImage2.PNG)
 
 ![](https://github.com/k65yang/SimpleImageRepository/blob/main/App_ImageAdded.png)
 
