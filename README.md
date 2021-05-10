@@ -1,5 +1,5 @@
 # Simple Image Repository
-Image repository app as part of the F2021 Shopify Developer Intern Challenge. As this was an open-ended task with no constraints on the technology that can be used, I designed this image repository to be a standalone single-user Java application. Almost all components of this application was coded from scratch, including the GUI (no GUI builder forms were used). The only exception is the thumbnail generator, which relied on an external dependency, thumbnailator. The following screenshot shows the interface of this application.
+Image repository app created for the F2021 Shopify Developer Intern Challenge. As this was an open-ended task with no constraints on the technology that can be used, I designed this image repository to be a standalone single-user Java application. Almost all components of this application was coded from scratch, including the GUI (no GUI builder forms were used). The only exception is the thumbnail generator, which relied on an external dependency, thumbnailator. The following screenshot shows the interface of this application.
 
 ![](https://github.com/k65yang/SimpleImageRepository/blob/main/App_Interface.png)
 
